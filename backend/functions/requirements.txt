@@ -1,0 +1,11 @@
+firebase-functions
+google-api-python-client==2.95.0
+google-auth
+google-auth-oauthlib
+bcrypt
+pandas
+firebase-admin
+google-cloud-firestore
+openpyxl
+oauth2client
+gspread
